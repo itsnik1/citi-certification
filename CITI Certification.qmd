@@ -21,6 +21,6 @@ Here is the screenshot of my CITI Certfication:
 
 # Appendix
 
-GitHub Repo
+[GitHub Repo](https://github.com/itsnik1/citi-certification)
 
-Published Report
+[Published Report](https://itsnik1.github.io/citi-certification/CITI-Certification.html)
